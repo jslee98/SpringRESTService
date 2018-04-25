@@ -1,10 +1,12 @@
 # Spring REST Server for TriVox Health
 ## Written by Jeff Lee
 
+## Project:
+Created as a quick project to exemplify Java and Web service skills. Example is to take an inventory from an odd car dealership, and be able to fetch average costs and cars.
+
 ## How to run:
-1. cd ShadyDealership
-2. java -jar /build/libs/ShadyDealershipBuild.war
-3. curl localhost:8080/vehicles/(REQUEST)
+1. java -jar ShadyDealershipBuild.war
+2. curl localhost:8080/vehicles/(REQUEST)
 
 ## Requests:
 
