@@ -1,4 +1,4 @@
-# NPI Mapping for 1upHealth
+# Spring REST Server for TriVox Health
 ## Written by Jeff Lee
 
 ## How to run:
@@ -10,17 +10,17 @@
 
 Replace (REQUEST) above with:
 
-###all
+### all
    To get all vehicles sorted by price ascending
 
-###type
+### type
    To get the average cost of each vehicle type, sorted price ascending
 
-###brand
+### brand
    To get the average cost of each vehicle brand, sorted price ascending
 
-###engine
+### engine
    To get the average cost of each engine type, sorted price ascending
 
-###color
+### color
    To get the average cost of each engine color, sorted price ascending
